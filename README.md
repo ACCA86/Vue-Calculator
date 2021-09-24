@@ -1,6 +1,8 @@
 # vue-cal
 
 > A Vue.js project
+> 
+![Calculator](https://user-images.githubusercontent.com/86328711/134663648-6a4449de-ebd4-4093-a9d9-7204d300f761.png)
 
 ## Build Setup
 
